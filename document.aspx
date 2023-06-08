@@ -30,15 +30,15 @@
         </a>
       </li>
       <li>
-        <a href="placements.aspx">
+        <a href="place.aspx">
           <i class='bx bx-box'></i>
           <span class="links_name">Add placement details</span>
         </a>
       </li>
       <li>
-        <a href="Add.jsp" >
+        <a href="ModelSheet.aspx" >
           <i class='bx bx-list-ul'></i>
-          <span class="links_name">Add</span>
+          <span class="links_name">Add Model Sheet</span>
         </a>
       </li>
       <li>
