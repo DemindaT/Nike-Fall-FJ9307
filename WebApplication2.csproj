@@ -106,6 +106,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Bulk.aspx" />
     <Content Include="document.aspx" />
     <Content Include="FStyle.css" />
     <Content Include="ModelSheet.aspx" />
@@ -113,6 +114,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bulk.aspx.cs">
+      <DependentUpon>Bulk.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bulk.aspx.designer.cs">
+      <DependentUpon>Bulk.aspx</DependentUpon>
+    </Compile>
     <Compile Include="document.aspx.cs">
       <DependentUpon>document.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
