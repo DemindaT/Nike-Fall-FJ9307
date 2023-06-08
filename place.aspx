@@ -43,29 +43,12 @@
                 </a>
             </li>
             <li>
-                <a href="withdraw.jsp">
+                <a href="Bulk.aspx">
                     <i class='bx bx-pie-chart-alt-2'></i>
-                    <span class="links_name">Withdraw</span>
+                    <span class="links_name">Bulk Style Briefing <br />Summary</span>
                 </a>
             </li>
-            <li>
-                <a href="report.jsp">
-                    <i class='bx bx-coin-stack'></i>
-                    <span class="links_name">Generate report</span>
-                </a>
-            </li>
-            <li>
-                <a href="queries.jsp">
-                    <i class='bx bx-book-alt'></i>
-                    <span class="links_name">Queries</span>
-                </a>
-            </li>
-            <li>
-                <a href="#">
-                    <i class='bx bx-log-out'></i>
-                    <span class="links_name">Log out</span>
-                </a>
-            </li>
+           
         </ul>
     </div>
     <section class="home-section">

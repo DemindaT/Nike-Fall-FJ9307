@@ -40,15 +40,15 @@
                 </a>
             </li>
             <li>
-                <a href="ModelSheet.aspx" class="active">
+                <a href="ModelSheet.aspx" >
                     <i class='bx bx-list-ul'></i>
                     <span class="links_name">Add Model sheet</span>
                 </a>
             </li>
             <li>
-                <a href="Bulk.aspx">
+                <a href="Bulk.aspx" class="active">
                     <i class='bx bx-pie-chart-alt-2'></i>
-                    <span class="links_name">Bulk Style Briefing Summary</span>
+                    <span class="links_name">Bulk Style Briefing<br /> Summary</span>
                 </a>
             </li>
             
